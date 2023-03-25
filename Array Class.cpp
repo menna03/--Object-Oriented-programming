@@ -1,6 +1,4 @@
-//MENNA OSAMA ELMINSHAWY 20217011
-//RADWA BELAL ABDALLAH 20217005
-//_____________
+
 #include <iostream>
 using namespace std;
 class MyArray
