@@ -1,25 +1,9 @@
-//Menna Osama Elminshawy 20217011
-// Radwa Belal AbdAllah  20217005
+//Menna Osama Elminshawy 
+// Radwa Belal AbdAllah  
 #include <iostream>
 #include <fstream>
 #include  <bits/stdc++.h>
-/*
- class player line 10
- setters and getters from 38-73
- operator overloading for players 76-113
- 135 class national team
- setters and getters from 131-177
- add players 180
- remove players 195
- average 207
- youngest 219
- oldest 234
- highestIntGoal 251
- writeStatistics 283
- readPlayersFromFile 299
- operator overloading for NationalTeam  330
- main 347
- */
+
 //number of player in array
 int nPlayers;
 
